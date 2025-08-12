@@ -41,10 +41,10 @@ I believe great software is built on great fundamentals. Whether I'm architectin
 
 ## 🚀 Featured Project
 
-**[TaskForge](https://github.com/jplante01/task_forge)** - Full-stack task management application  
+#### **[TaskForge](https://github.com/jplante01/task_forge)** - Full-stack task management application  
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-success?style=flat-square&logo=vercel)](https://taskforge.jplante.dev) [![GitHub](https://img.shields.io/badge/-Repository-black?style=flat-square&logo=github)](https://github.com/jplante01/task_forge)
 
-Built with React, TypeScript, Material-UI, and deployed on AWS. Showcases modern development practices and clean, maintainable code.
+Built with React, React Query,  Material-UI, and deployed on AWS and Supabase. Showcases modern development practices and clean, maintainable code.
 
 ## 📫 Let's Connect
 📧 **git@jplante.dev**  
