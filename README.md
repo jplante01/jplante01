@@ -19,7 +19,7 @@ I believe great software is built on great fundamentals. Whether I'm architectin
 ## 🚀 Current Tech Focus
 
 **Core Strengths**
-- React ecosystem (Hooks, Context, React Query)
+- React ecosystem
 - TypeScript for type-safe development
 - AWS cloud services & deployment
 - Linux server management
