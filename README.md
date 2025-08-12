@@ -45,8 +45,6 @@ I believe great software is built on great fundamentals. Whether I'm architectin
 ## 🚀 Featured Projects
 [2-3 best projects with links]
 
-## 📈 GitHub Stats
-[Stats widgets]
 
 ## 📫 Let's Connect
 [Contact info]
