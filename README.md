@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jplante01/jplante01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,9 +39,13 @@ I believe great software is built on great fundamentals. Whether I'm architectin
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </div>
 
-## 🚀 Featured Projects
-[2-3 best projects with links]
+## 🚀 Featured Project
 
+**[TaskForge](https://github.com/jplante01/task_forge)** - Full-stack task management application  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-success?style=flat-square&logo=vercel)](https://taskforge.jplante.dev) [![GitHub](https://img.shields.io/badge/-Repository-black?style=flat-square&logo=github)](https://github.com/jplante01/task_forge)
+
+Built with React, TypeScript, Material-UI, and deployed on AWS. Showcases modern development practices and clean, maintainable code.
 
 ## 📫 Let's Connect
-[Contact info]
+📧 **git@jplante.dev**  
+💼 **[linkedin.com/in/jeffreyplante](https://www.linkedin.com/in/jeffreyplante)** 
