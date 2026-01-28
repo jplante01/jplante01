@@ -39,12 +39,18 @@ I believe great software is built on great fundamentals. Whether I'm architectin
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+#### **[QuickChat](https://github.com/jplante01/chat_app)** - Real-time messaging application                                                   
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-success?style=flat-square&logo=vercel)](https://chat.jplante.dev) [![GitHub](https://img.shields.io/badge/-Repository-black?style=flat-square&logo=github)](https://github.com/jplante01/chat_app)                                                                                                                                                              
+Built with React, React Query, Material-UI, and Supabase Realtime WebSockets. Features instant messaging, user authentication, and responsive design.                                                                                                                                        
 
 #### **[TaskForge](https://github.com/jplante01/task_forge)** - Full-stack task management application  
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-success?style=flat-square&logo=vercel)](https://taskforge.jplante.dev) [![GitHub](https://img.shields.io/badge/-Repository-black?style=flat-square&logo=github)](https://github.com/jplante01/task_forge)
 
 Built with React, React Query,  Material-UI, and deployed on AWS and Supabase. Showcases modern development practices and clean, maintainable code.
+
+
 
 ## 📫 Let's Connect
 📧 **git@jplante.dev**  
